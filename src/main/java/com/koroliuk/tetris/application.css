@@ -1,0 +1,20 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	-fx-background-color: #000;
+	-fx-background-image: url("/images/mainScene.jpg");
+	-fx-background-size: 100.0% 100.0%;
+	-fx-background-repeat: no-repeat;
+}
+.button{	
+	-fx-font-size: 20.0px;
+	-fx-font-weight: bold;
+	-fx-background-color: #4ab9c5;
+	-fx-text-fill: #000;
+}
+#nameOfPlayer{
+    -fx-background-color: transparent;
+	-fx-font-size: 15.0px;
+	-fx-font-weight: bold;
+	-fx-text-fill: #000;  
+	-fx-alignment: CENTER;
+}
